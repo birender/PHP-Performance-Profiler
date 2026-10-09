@@ -2,7 +2,7 @@
 
 A lightweight, dependency-free **PHP static performance analyzer** for identifying potential performance problems, code complexity, database anti-patterns, and other issues in PHP applications.
 
-> **Current version: v0.2.0**
+> **Current version: v0.2.1**
 
 The profiler analyzes PHP source code without executing the application.
 
